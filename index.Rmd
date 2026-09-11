@@ -1,0 +1,42 @@
+---
+title: "Kripi Singapuri"
+image: "Kripi.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kripi-singapuri/"
+  - label: GitHub
+    url: "https://github.com/ksingapuri24"
+  - label: Email
+    url: "ksingap1@jh.edu"
+  - label: Lab Website
+    url: "https://www.kennedykrieger.org/research/centers-labs-cores/brain-and-behavioral-development-lab/our-team/kripi-singapuri"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+I am part-time MPH student at Bloomberg School of Public Health, Johns Hopkins University. I am also a Senior Research Assistant at the Brain and Behavior Development Lab (BBDL) at the Kennedy Krieger Institute. My research interests include using neuroimaging to answer questions about brain and language development in children. I have a lot of experience in collecting EEGs, MRIs, and HD-DOT (High Density Diffuse Optical Tomography) data from children and analyzing these data using various statistical methods. 
+
+## Education
+
+Johns Hopkins Bloomberg School of Public Health | Baltimore, MD
+Master of Public Health | Current
+
+Stony Brook University | Stony Brook, NY
+B.S. in Biology
+
+## Experience
+
+**Kennedy Krieger Institute** | Senior Research Assistant | August 2021 - Present
+
+**Kennedy Krieger Institute** | Research Assistant | September 2021 - Present
+
+**Stony Brook University** | Research Assistant | May 2019 – May 2021
+
+## Research and Interests
+My research interests center around understanding health and development through quantitative and data-driven approaches. My current work focuses on infant neuroimaging and brain development, using EEG, MRI, and HD-DOT to study the developing brain.My research experience has given me experience working with scientific data and quantitative methods, and I am currently expanding my statistical computing skills through my MPH coursework.
+
+I am particularly interested in combining my background in biological research with epidemiology, biostatistics, and statistical computing. I hope to continue developing the skills needed to work with complex health data and use quantitative methods to answer meaningful questions about human health and development. I am particularly interested in becoming more comfortable with data analysis, visualization, reproducible research, and using programming to make research more efficient and rigorous.
+
+## Hobbies
+Outside of work and school, I enjoy creative and low-key hobbies like cozy coloring books, playing cozy games on my Switch, paint-by-number, puzzles, and taking long walks by the harbor with a good audiobook.
