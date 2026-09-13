@@ -1,6 +1,6 @@
 ---
 title: "Kripi Singapuri"
-image: "Kripi.jpg"
+image: "Kripi.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/kripi-singapuri/"
